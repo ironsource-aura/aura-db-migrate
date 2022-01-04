@@ -2,8 +2,8 @@
 ci 'ecs-global-slave', {
 
     env.group = "aura"
-    env.team = "blue"
-    env.subteam = "db-migrate"
+    env.team = "orange"
+    env.subteam = "infra"
     env.language = "javascript"
     env.service_name = "db-migrate"
     env.service_git_repo = "${env.service_name}"

@@ -35,6 +35,9 @@
   "engines": {
     "node": ">=8.0.0"
   },
+  "publishConfig": {
+    "registry": "https://ironsrc.jfrog.io/ironsrc/api/npm/npmjs-local"
+  },
   "bugs": {
     "url": "https://github.com/db-migrate/node-db-migrate/issues"
   },
