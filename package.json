@@ -80,6 +80,7 @@
   },
   "scripts": {
     "prepublishOnly": "node generateLoader.js",
+    "build": "echo this wont work",
     "pretest": "eslint *.js lib/*.js",
     "test": "lab",
     "test:coverage": "lab -r html -o coverage.html"
