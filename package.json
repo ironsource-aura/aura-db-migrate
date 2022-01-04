@@ -1,5 +1,5 @@
 {
-  "name": "db-migrate",
+  "name": "aura-db-migrate",
   "description": "Database migration framework for node.js",
   "author": "Tobias Gurtick",
   "bin": "./bin/db-migrate",
